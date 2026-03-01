@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Poisson-Algebraic Parallel Scan: A Fast Symplectic Framework for Neural Hamiltonians"
 collection: publications
 permalink: /publication/poisson-algebraic-parallel-scan/
